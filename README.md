@@ -5,13 +5,27 @@ Project Description: A simple raffle concept for learning with
 
 # Testing Strategy
 ## Unit Testing Plan:
-
-[Describe how you will test individual components and functions]
-[Specify testing frameworks or tools]
+Simple pytest unit tests to ensure each function works as expected.
 
 
 # Documentation
 ## User Documentation:
+
+### Forming requests to go to polygon
+
+### Sending requests to polygon
+
+### Using the request on polygon
+
+### Requesting randomwords
+
+### Using randomwords logic 
+
+### Forming response to user
+
+### Sending response to user
+
+### Doing something with that response
 
 [Plan for creating user manuals, guides, or online help resources]
 Developer Documentation:
