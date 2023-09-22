@@ -14,6 +14,15 @@ Simple pytest unit tests to ensure each function works as expected.
 ### Forming requests to go to polygon
 
 ### Sending requests to polygon
+send_get_request()
+    a simple get request to the backend app.py
+
+    Args:
+        _url (str): the complete url including root and path
+
+    Returns:
+        requests.Response: a Response type object from the requests library
+
 
 ### Using the request on polygon
 
